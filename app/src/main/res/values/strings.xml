@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hickers Location</string>
+    <string name="hicking_txt">Hicking Watch</string>
+    <string name="address_txt">Address</string>
+    <string name="accuracy_txt">Accuracy</string>
+    <string name="latitude_txt">Latitude: 1213213</string>
+    <string name="longitude_txt">Longitude: 324234</string>
+    <string name="altitude_txt">Alititude: 324234</string>
+</resources>
